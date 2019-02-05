@@ -1,5 +1,5 @@
 ## intern-project
-You can see the website here:https://madihaparacha.github.io/1st-agency/.
+You can see the website here:https://madihaperacha.github.io/1st-agency/
 
 ## Ingredients
 - To make this application, we need to cover the following topics:
